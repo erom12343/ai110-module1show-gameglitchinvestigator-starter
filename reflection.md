@@ -8,6 +8,16 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 - List at least two concrete bugs you noticed at the start  
   (for example: "the secret number kept changing" or "the hints were backwards").
 
+
+  1. Submit guess button doesn't work after restart
+  2. Number prompt doesn't change when difficulty changes (still says 1 to 100)
+  3. Game starts already having 1 attempt (attempts reduced to 7 instead of starting at 8)
+  4. Hint prompt is incorrect
+  5. enter to apply does not work
+  6. History doesn't reset on new game
+  7. First attempt of new game (not on site load) doesn't reduce attempts
+  8. Score goes negative
+
 ---
 
 ## 2. How did you use AI as a teammate?
